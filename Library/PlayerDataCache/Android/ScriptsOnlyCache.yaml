@@ -62,17 +62,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11876}
     - Class: 114
-      Script: {instanceID: 12348}
+      Script: {instanceID: 12350}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13328}
+      Script: {instanceID: 13330}
     - Class: 114
-      Script: {instanceID: 13506}
+      Script: {instanceID: 13508}
     - Class: 114
-      Script: {instanceID: 14034}
+      Script: {instanceID: 14036}
     - Class: 114
-      Script: {instanceID: 14070}
+      Script: {instanceID: 14072}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -398,6 +398,12 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
+      Hash: 0ae0fd69995fe7a77d0799b6ab1a3def
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Grab
+  - hash:
+      serializedVersion: 2
       Hash: 0fb27be807aa299702f28ad0bcad1f46
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -494,7 +500,7 @@ ScriptsOnlyBuild:
     className: XRSettings
   - hash:
       serializedVersion: 2
-      Hash: f1706000e598ef53ebfc28ff95e57a9b
+      Hash: cc5478138c80ff50d700c3f55dddbe65
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerGrab
@@ -927,4 +933,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/HP/Documents/Unity Games/NewVR.apk
+  playerPath: C:/Users/HP/Documents/Unity Games/VRGame.apk
