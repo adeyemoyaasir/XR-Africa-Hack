@@ -6,14 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.18.0/Hello Cardboard/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
+    path: Assets/Scenes/ClassRoom.unity
+    guid: c4f3e66b9098b864994827fa0d7d4ce6
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: b583959b2ae135c4593b859126823914
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Enviroment.unity
+    guid: 3eb712cf9888e394bab1d52ef7a45d2f
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fb48b58b0eaada74ca18a28ed59006a2,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 023981ff44d8984489ebbf733daf7e5f,
       type: 2}
